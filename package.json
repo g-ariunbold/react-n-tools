@@ -1,5 +1,5 @@
 {
-  "name": "react-tools",
+  "name": "react-n-tools",
   "version": "1.0.0",
   "description": "react boilerplate project with parcel, localforage, mobx, mobx-state-tree and react router",
   "main": "index.js",
